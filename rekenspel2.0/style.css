@@ -1,0 +1,15 @@
+body{
+  background-color: aliceblue;
+}
+
+.wrapper{
+  background-color: LemonChiffon;
+}
+
+.goed{
+  background-color: DarkTurquoise;
+}
+
+.fout{
+  background-color: DarkOrange;
+}
